@@ -3,6 +3,8 @@
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![CI](https://github.com/Eslavath-Pinki/Production-Planning-Resource-Allocation-Optimizer/actions/workflows/ci.yml/badge.svg)
+![Domain](https://img.shields.io/badge/domain-production%20planning-orange)
+
 
 A linear-programming model that decides **what to produce, on which
 machine, with which workforce, and when** — across multiple products,
