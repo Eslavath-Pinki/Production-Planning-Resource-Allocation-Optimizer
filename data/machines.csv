@@ -1,0 +1,6 @@
+machine_id,machine_name,worker_type,base_hours_per_period
+M1,CNC-Mill-1,Skilled,80
+M2,CNC-Mill-2,Skilled,80
+M3,Assembly-Line-1,General,96
+M4,Assembly-Line-2,General,96
+M5,Packaging-1,General,60

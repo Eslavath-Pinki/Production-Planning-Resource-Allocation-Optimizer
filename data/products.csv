@@ -1,0 +1,5 @@
+product_id,product_name,holding_cost_per_unit_period
+P1,Widget-A,0.8
+P2,Widget-B,1.2
+P3,Widget-C,0.6
+P4,Widget-D,1.5

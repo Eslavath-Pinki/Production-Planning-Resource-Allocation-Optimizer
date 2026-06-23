@@ -1,0 +1,9 @@
+product_id,machine_id,proc_time_hours_per_unit,prod_cost_per_unit
+P1,M1,0.5,12.0
+P1,M2,0.6,11.0
+P2,M3,0.3,8.0
+P2,M4,0.35,7.5
+P3,M1,0.4,10.0
+P3,M3,0.45,9.0
+P4,M4,0.25,6.0
+P4,M5,0.2,5.5

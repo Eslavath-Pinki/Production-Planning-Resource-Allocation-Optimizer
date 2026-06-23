@@ -1,0 +1,17 @@
+worker_type,period,hours_available,cost_per_hour
+Skilled,1,165,28.0
+Skilled,2,165,28.0
+Skilled,3,165,28.0
+Skilled,4,165,28.0
+Skilled,5,165,28.0
+Skilled,6,99.0,28.0
+Skilled,7,165,28.0
+Skilled,8,165,28.0
+General,1,230,18.0
+General,2,230,18.0
+General,3,230,18.0
+General,4,230,18.0
+General,5,230,18.0
+General,6,230,18.0
+General,7,230,18.0
+General,8,230,18.0
