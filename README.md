@@ -87,7 +87,7 @@ production-planning-optimizer/
 ## Getting started
 
 ```bash
-git clone https://github.com/<your-username>/production-planning-optimizer.git
+git clone https://github.com/Eslavath-Pinki/Production-Planning-Resource-Allocation-Optimizer.git
 cd production-planning-optimizer
 pip install -r requirements.txt
 
