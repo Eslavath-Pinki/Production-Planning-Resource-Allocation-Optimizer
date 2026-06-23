@@ -3,6 +3,7 @@
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![CI](https://github.com/Eslavath-Pinki/Production-Planning-Resource-Allocation-Optimizer/actions/workflows/ci.yml/badge.svg)
+
 A linear-programming model that decides **what to produce, on which
 machine, with which workforce, and when** — across multiple products,
 multiple time periods, and limited machine and labor capacity — in order to
